@@ -26,7 +26,7 @@ pmem is a Python3 script for show memory of all processes & total system memory
   pmem.py
   ````
 
-<img src="https://git.q3aql.dev/q3aql/pmem/src/branch/main/pmem.png" />
+<img src="raw/branch/main/pmem.png" />
 
 ### External links:
 
