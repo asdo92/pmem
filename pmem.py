@@ -2,7 +2,7 @@
 
 # -----------------------------------------------------------
 # pmem - Show system memory                                 |
-# Created by q3aql (q3aql@duck.com)                         |
+# Created by asdo92 (asdo92@duck.com)                       |
 # Licensed by GPL v2.0                                      |
 # Last update: 29-10-2022                                   |
 # Compatible with Python 3.x                                |
